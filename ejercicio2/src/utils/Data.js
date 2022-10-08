@@ -163,14 +163,14 @@ export default[
         name:'Como conocí a vuestra madre',
         temporadas:9,
         imagen:require('../components/img/seriec2.jpg'),
-        video:require('../components/mp4/seriec2.mp4')
+        video:require('../components/mp4/seriec3.mp4')
       }, 
       {
         id:'26',
         name:'Dos Chicas Quebradas',
         temporadas:6,
         imagen:require('../components/img/seriec3.jpg'),
-        video:require('../components/mp4/seriec3.mp4')
+        video:require('../components/mp4/seriec2.mp4')
       }, 
       {
         id:'27',
