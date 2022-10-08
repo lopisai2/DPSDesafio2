@@ -112,14 +112,14 @@ export default[
       {
         id:'18',
         name:'Jurassic Word: Campo Cretácico',
-        temporadas:2,
+        temporadas:5,
         imagen:require('../components/img/seriea1.jpg'),
         video:require('../components/mp4/seriea1.mp4')
       }, 
       {
         id:'19',
         name:'Wanda Vision',
-        temporadas:2,
+        temporadas:1,
         imagen:require('../components/img/seriea2.jpg'),
         video:require('../components/mp4/seriea2.mp4')
       }, 
@@ -133,21 +133,21 @@ export default[
       {
         id:'21',
         name:'Rápidos y Furiosos: Espías al Volante',
-        temporadas:2,
+        temporadas:6,
         imagen:require('../components/img/seriea4.jpg'),
         video:require('../components/mp4/seriea4.mp4')
       }, 
       {
         id:'22',
         name:'What If...',
-        temporadas:2,
+        temporadas:1,
         imagen:require('../components/img/seriea5.jpg'),
         video:require('../components/mp4/seriea5.mp4')
       }, 
       {
         id:'23',
         name:'Ms. Marvel',
-        temporadas:2,
+        temporadas:1,
         imagen:require('../components/img/seriea6.jpg'),
         video:require('../components/mp4/seriea6.mp4')
       }, 
@@ -168,7 +168,7 @@ export default[
       {
         id:'26',
         name:'Dos Chicas Quebradas',
-        temporadas:2,
+        temporadas:6,
         imagen:require('../components/img/seriec3.jpg'),
         video:require('../components/mp4/seriec3.mp4')
       }, 
@@ -189,28 +189,28 @@ export default[
       {
         id:'29',
         name:'Monsters at Work',
-        temporadas:2,
+        temporadas:1,
         imagen:require('../components/img/seriec6.jpg'),
         video:require('../components/mp4/seriec6.mp4')
       }, 
       {
         id:'30',
         name:'Hawkeye',
-        temporadas:2,
+        temporadas:1,
         imagen:require('../components/img/serief1.jpg'),
         video:require('../components/mp4/serief1.mp4')
       }, 
       {
         id:'31',
         name:'Moon Knigth',
-        temporadas:2,
+        temporadas:1,
         imagen:require('../components/img/serief2.jpg'),
         video:require('../components/mp4/serief2.mp4')
       }, 
       {
         id:'32',
         name:'Super Girl',
-        temporadas:2,
+        temporadas:6,
         imagen:require('../components/img/serief3.jpg'),
         video:require('../components/mp4/serief3.mp4')
       }, 
@@ -224,14 +224,14 @@ export default[
       {
         id:'34',
         name:'Steven Universe',
-        temporadas:2,
+        temporadas:5,
         imagen:require('../components/img/serief5.jpg'),
         video:require('../components/mp4/serief5.mp4')
       }, 
       {
         id:'35',
         name:'The Flash',
-        temporadas:5,
+        temporadas:8,
         imagen:require('../components/img/serief6.jpg'),
         video:require('../components/mp4/serief6.mp4')
       }, 
